@@ -18,7 +18,7 @@
 
 > **Noggenfogger Elixir**  
 > *Potion, uncommon*  
-> When you drink this potion, you must roll a d20. If you roll an odd number, you shrink one size category. For example, a large creature becomes medium. If you roll an even number, all of the clothes and flesh on your body become transparent and you appear as a skeleton. 
+> When you drink this potion, you must roll a d20. If you roll an odd number, you shrink one size category. For example, a large creature becomes medium. If you roll an even number, all of the clothes and flesh on your body become transparent and you appear as a skeleton.  
 > The effects of this potion last 10 minutes. 
 
 > **Potion of Life**  

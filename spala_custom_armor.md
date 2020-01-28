@@ -15,12 +15,12 @@
 > **Provocative Armor**  
 > *Armor (light), rare (requires attunement)*  
 > A set of visually useless yet functional armor, this set of protective wear channels your good looks to fuel your defense.  While attuned to this armor, your AC is equal to 10 + your Dexterity modifier + your Charisma modifier.  
-> You have disadvantage on Stealth rolls in crowded places and you can never pass unnoticed, as you are impossible to ignore.  You can cover up to negate this disadvantage, but you also lose the Charisma modifier bonus to your AC while covered.  You are considered proficient with light armor while attuned to and wearing this armor, even if you otherwise lack light armor proficiency.  
+> You have disadvantage on Stealth rolls in crowded places and you can never pass unnoticed, as you are impossible to ignore.  You can cover up to negate this disadvantage, but you also lose the Charisma modifier bonus to your AC while covered. You are considered proficient with light armor while attuned to and wearing this armor, even if you otherwise lack light armor proficiency.  
 > While wearing the Provocative Armor, you can change the appearance of the armor to suit your style, but it will always appear provocative and revealing.
 
 > **Nullification Armor**  
 > *Armor (any), very rare (requires attunement)*  
-> This armor comes with 5 charges.  Whenever you take damage other than bludgeoning, slashing or piercing, you can use your reaction to expend 1 charge and gain immunity to that type of damage until the end of your next turn.  This armor regains 1d4+1 charges after a long rest.
+> This armor comes with 5 charges.  Whenever you take damage other than bludgeoning, slashing or piercing, you can use your reaction to expend 1 charge and gain immunity to that type of damage until the end of your next turn. This armor regains 1d4+1 charges after a long rest.
 
 > **Retaliating Bloom Shielding**  
 > *Armor (shield), rare*  
