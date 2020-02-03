@@ -1,29 +1,15 @@
-<details>
-<summary>
-Common
-</summary>
-<details>
-<summary>
-Alacritous Armor
-</summary>
-<i>Armor (any armor), common</i>
+# Common
 
-You can don or doff this armor by using an action to speak its command word.
-</details>
-</details>
+**Alacritous Armor**
+> *Armor (any armor), common*
+> You can don or doff this armor by using an action to speak its command word.
 
-<details><summary>Uncommon</summary>
-</details>
+# Uncommon
 
-<details><summary>Rare</summary>
-</details>
+# Rare
 
-<details><summary>Very Rare</summary>
-</details>
+# Very Rare
 
-<details><summary>Legendary</summary>
-</details>
+# Legendary
 
-<details><summary>Artifact</summary>
-</details>
-
+# Artifact

@@ -1,18 +1,11 @@
-<details><summary>Common</summary>
-</details>
+# Common
 
-<details><summary>Uncommon</summary>
-</details>
+# Uncommon
 
-<details><summary>Rare</summary>
-</details>
+# Rare
 
-<details><summary>Very Rare</summary>
-</details>
+# Very Rare
 
-<details><summary>Legendary</summary>
-</details>
+# Legendary
 
-<details><summary>Artifact</summary>
-</details>
-
+# Artifact
