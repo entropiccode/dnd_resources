@@ -1,11 +1,19 @@
-# Common
-
-# Uncommon
-
 # Rare
 
-# Very Rare
+#### Truth Stick
+> *Rod, rare*  
+> You can ask this stick a yes or no question about anything once a day.  The DM rolls a d8 to determine the answer.  On a result of 1-5, the correct answer is given.  On a 6 or 7, the stick gives a non-committal answer such as “Future Hazy” or “Ask again later.”  On an 8, the stick gives the strong answer.  The stick will not answer any questions that are not yes or no answers, and will not answer questions if it has already answered a question that day.  The Truth Stick can correctly reveal knowledge of the future, but the knowledge isn’t a fixed future, it can be changed.
 
-# Legendary
+#### Lightning Pylons
+> *Rod, rare*  
+> These 3-foot long rods are made using a blend of magic and science and normally come in sets of 3. The pylons are tipped with a fragment of a blue dragon's horn. Each pylon channels the latent electrical energy within these horn fragments and can extend that energy to neighboring pylons to create an electrical barrier between them. Each pylon has an electrical charge. Once that charge has been lost, It takes 12 hours for it to recharge.  
+> You can set up a pylon in an unoccupied space adjacent to you as an action. While touching a set up pylon that has an electrical charge, you can speak its command word as a bonus action to electrify it. A pylon remains electrified for 1 minute and loses its electrical charge at the end of that minute. If there is at least 1 other pylon with a charge set up within 20 feet of an already electrified one, electricity jumps and arcs between them. A pylon becomes electrified once it receives electricity from a neighboring one in this way. You can have up to 6 pylons connected like this at once. Electrified pylons are magically bound to the ground until they lose their charge.  
+> The electricity between the pylons forms a wall 10 feet high and 1 foot thick. The wall is opaque and casts bright light out to 10 feet and dim light for another 10 feet. When the wall appears, each creature within its area must make a DC 15 Dexterity saving throw. On a failure, a creature takes 5d8 lightning damage and has its speed reduced to 0 until the start of its next turn. On a success, it takes half as much damage and has its speed halved instead. Creatures who are made of metal or are wearing metal armor have disadvantage on this saving throw. A creature that ends its turn within the wall or enters it for the first time on its turn must also make the saving throw. Setting up a pylon does not force you to make this saving throw.  
+> Each pylon has AC 15 and 20 hit points. A creature that touches an electrified pylon or hits it with a melee attack using a metal weapon takes 1d8 lightning damage for each pylon connected to it, including itself. Once a pylon is reduced to 0 hit points, it loses its electrical charge and ends the connection it may have to other neighboring pylons.
 
-# Artifact
+#### Switch
+> *Rod, very rare (requires attunement by a druid)*  
+> This simple, springy rod is made of twisting vines and twigs. While attuned to the rod, you can expend 1 use of your wild shape feature as a bonus action to activate it. The rod stays active for a number of hours equal to half your druid level (rounded down).  
+> When you activate the rod and again on subsequent turns as a bonus action while the rod is active, you can transform the rod into a bludgeoning or piercing weapon of your choice that has neither the loading nor reach property. You’re proficient with this weapon and can use Wisdom as your modifier for its attack and damage rolls instead of Dexterity or Strength. A weapon that uses ammunition magically creates its own. Alternatively, you can transform switch back into its rod form if you so choose. Regardless of the weapon you make, targets hit by it take an extra 1d8 damage of the weapon’s type. If the weapon you create has the light property, you can make a weapon attack with it using a bonus action.  
+> While the rod is activated, you can use an action to expend a second use of your wild shape feature and extend the rod’s barked exterior to your body. This tree-like armor can take on any form that you choose. You gain temporary hit points equal to 4 times your Druid level, and your armor class can’t be lower than 16 while the rod is active. Using this property of the activated rod does not extend its remaining duration.  
+> Switch becomes inactive at the end of its duration, you fall to 0 hit points, or end it early as a bonus action. When it’s inactive, it reverts to its normal rod form.
