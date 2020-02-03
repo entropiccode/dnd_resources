@@ -110,6 +110,40 @@
 
 # Very Rare
 
+#### Arcane Mirror
+> *Armor (shield), very rare (requires attunement)*  
+> This reflective shield is coated with an impenetrable weaving of abjuration magic and can sometimes reflect dangerous magics back at their source.  
+> The shield has 8 charges and regains 1d6 + 2 expended charges each day at dawn. When you are the only target of a spell that misses you or whose saving throw you succeed, you can use your reaction to expend a number of charges equal to the level in which the spell was cast (minimum of 1). When you do, you can reflect some of the spell's evaded magics back at its source and force it to make a Dexterity saving throw. On a failed save, the target takes 1d8 radiant damage for each expended charge, or half as much on a success. The save DC for this effect is equal to 8 + your proficiency bonus + the number of expended charges. If you reflect a spell in this way that would cause you to take half damage on a successful save, you instead take no damage.  
+> Alternatively, you expend 2 charges to cast the shield spell. 
+
+#### Nullification Armor
+> *Armor (any) very rare (requires attunement)*  
+> This armor comes with 5 charges.  Whenever you take damage other than bludgeoning, slashing or piercing, you can use your reaction to expend 1 charge and gain immunity to that type of damage until the end of your next turn.  This armor regains 1d4+1 charges after a long rest.
+
+#### Dark Fathom Armor
+> *Armor (studded leather), very rare (requires attunement)*  
+> This dark, sea-soaked suit of armor smells of brine and is covered in eldritch runes. You have a +1 bonus to AC and can breathe normally underwater while wearing this armor.  
+> You can use this armor to cast the black tentacles spell (save DC 15) while you're wearing it. This spell's area of effect becomes a 15-foot square centered on your location when you cast it in this way, and you are immune to its effects. The spell does not follow you when you move. When casting this spell in this way, it does not require concentration. Once this property of the armor has been used, it can't be used again until the following dusk.
+
+#### Infernal Aegis
+> *Armor (shield), very rare (requires attunement)*  
+> You can speak this dark iron shield's command word using a bonus action while you hold it to cause it to become wreathed in harmless magical flames. The flames cast bright light in a 20-foot radius and dim light for another 20 feet. The flames last until you speak the command word again or until you drop or doff the shield.  
+> While holding the shield, you have a +1 bonus to AC as well as resistance to fire damage. This bonus is in addition to the shield's normal bonus to AC. In addition, the shield has 4 charges and regains 1d4 expended charges each day at dawn. While the shield is ablaze, you can expend 1 or more of its charges to cast the fire shield (2 charges) or hellish rebuke (1 charge) spell using the shield. When casting one of these spells from the shield, fire shield can only be used to create a warm shield, and hellish rebuke has a save DC of 16.
+
+#### Ironleaf Plate
+> *Armor (plate), very rare (requires attunement)*  
+> This set of plate armor is lined and overgrown with magical vines and gives you a +1 bonus to your AC. While wearing the armor, its vines seem to move the armor's metal plates when you move, allowing you to ignore the plate armor's normally imposed disadvantage on Dexterity (Stealth) checks. In addition, the vines are able to absorb some of the impact from blunt attacks, granting you resistance to bludgeoning damage.  
+> When you take fire damage, the leaves wither and lose some of their protection until the start of your next turn. While the leaves are withered in this way, you are not resistant to bludgeoning damage.  
+> **Mantle of the Wild.** While wearing this armor, you can cast pass without trace once without expending a spell slot. Once you've cast this spell in this way, you can't do so again until the following dawn.
+
+### Winter's Embrace
+> *Armor (breastplate), very rare (requires attunement)*  
+> This frosty breastplate and fur set is enchanted to keep its wearer at a constant, comfortable temperature. While wearing this armor, you have resistance to cold and fire damage and ignore difficult terrain created by ice or snow. In addition, you can cast the ice storm spell (save DC 16) at 6th level using the armor. When cast in this way, the spell is centered on your location and you are immune to its effects. Once this property of the armor has been used, it can't be used again until the following dawn.
+
 # Legendary
 
-# Artifact
+#### Starmetal Shield
+> *Armor (shield), legendary (requires attunement)*   
+> This open metal shield and gauntlet offer a +1 bonus to your armor class instead of a shield’s normal bonus. Whenever you’re the target of an attack made with a metal weapon or projectile, the bonus becomes +3 instead. The shield hovers above the gauntlet to protect you as if you were wielding it, leaving your hands free.  
+> **Shooting star.** As an action, you can throw the shield at up to 3 clustered targets you can see before returning to your arm. Choose up to 3 targets or points. The first target or point must be within 30 feet of you, and any additional targets or points must be within 10 feet of the one before it. You can’t select the same target more than once.  
+> Make a ranged attack with the shield against each target. You are proficient with these attacks and add either your Dexterity or Strength modifier to its attack and damage rolls. Targets hit by the attack take 2d8 magical slashing damage. Once the shield reaches a target or point, it bounces towards the next target or point. The shield flies back to the gauntlet after reaching its final destination, bouncing harmlessly off of anything obstructing its path.
