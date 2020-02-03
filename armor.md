@@ -1,6 +1,6 @@
-<details><summary>
+<details><summary><p>
 
-# Common</summary>
+# Common</summary></p>
 <details><summary>
 
 ### Alacritous Armor</summary>
