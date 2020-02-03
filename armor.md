@@ -1,4 +1,4 @@
-<details><summary><h1>Common</h1></summary>
+<details><h1><summary>Common</summary></h1>
 <details><summary><h3>Alacritous Armor</h3></summary>
 <i>Armor (any armor), common</i>
 
