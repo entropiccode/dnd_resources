@@ -1,11 +1,6 @@
-<details><summary><p>
-
-# Common</summary></p>
-<details><summary>
-
-### Alacritous Armor</summary>
-
-*Armor (any armor), common*
+<details><summary><h1>Common</h1></summary>
+<details><summary><h3>Alacritous Armor</h3></summary>
+<i>Armor (any armor), common</i>
 
 You can don or doff this armor by using an action to speak its command word.
 </details>
