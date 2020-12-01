@@ -144,6 +144,7 @@ A single ornate, white glove covered in ancient writings and designs. The fabric
 The glove has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While you wear this glove, you can expend a number of charges to have a spell with a range of Self have a range of Touch instead.
 
 | **Spell Level ** | **Required Charges** |
+|:--:|:--:|
 | Cantrip | 1 |
 | 1st-Level | 1 |
 | 2nd-Level | 2 |
