@@ -79,3 +79,73 @@ This bottle of bees can be used to produce sweet delicious honey or to unleash a
 Once you use one of the bottle's powers, you can't use it again until the next dawn.
 
 If the bottle is broken, the swarm turns on the person who was holding the item before it broke.
+
+#### Firewaver Gloves
+*Wondrous item, uncommon (requires attunement)*
+
+While wearing these fine golden gloves, you can hold and carry small nonmagical flames (such as that of a torch or candle) as if they were tangible objects and can sculpt them like clay. Once sculpted, a flame retains its form for 1 minute before returning to normal. A nonmagical flame carried in this way burns brightly for 1 hour before dying. If you drop or throw the carried flame, it immediately burns out.
+
+These gloves have 1 charge that recharges each day at dawn. While wearing the gloves, you can expend 1 charge to cast the continual flame spell without material components, creating the flame in the palm of your hand or allowing it to encompass an entire glove. The flame dies after 1 minute of not being in contact with the glove. In addition, when you take fire damage from a magical source, you can use your reaction to reduce that damage by 1d8 + 2, provided that you have a free hand. If you reduce the damage to 0, you regain 1 charge.
+
+## Rare Magical Items
+
+#### Wooden Chain of the Unbroken Circle
+*Armor (chain shirt), rare (requires attunement by a druid or ranger)*
+
+This magical chain shirt is crafted using strange wooden links enchanted by a militant circle of druids. The wooden chain is reinforced with old, natural magic that responds to the wearer's reverent connection to nature. While wearing this armor, you gain a bonus to your AC equal to your Wisdom modifier (max 2) in addition to the armor's normal AC.
+
+#### Ring of Earthly Movement
+*Ring, rare (requires attunement)*
+
+While attuned to this bulky thumb ring made of polished granite, you have a burrowing speed equal to your walking speed.  You can glide through natural, unworked stone, dirt, and other soft earth.  Your burrowing leaves no tunnel or hole, nor does it create any ripple or other signs of your presence.  You can only be detected by the detect magic spell or similar magic.
+
+#### Fire Wand of the Unbroken Circle
+*Wand, rare (requires attunement by a druid)*
+
+This wooden wand is carved out of ash and is always faintly warm to the touch. Whenever you grip the wand's handle and later look at your palm, it's strangely covered in a fine layer of charcoal. This wand has 7 charges. While holding the wand, you can expend 1 or more of its charges to cast either the flame blade spell (2 charges) or produce flame cantrip (no charges, or 1 charge to cast at 5th level) using the wand with a spell attack bonus of +5. When you cast the flame blade spell using this wand, the sword's fiery blade appears above the wand's haft instead of in a free hand.
+
+Whenever you would fail a Constitution saving throw to maintain concentration on a flame blade spell cast from the wand, you can expend 1 charge as a reaction in order to succeed on the saving throw instead. You can only use your reaction in this way if you’re holding the wand.
+
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand bursts into flame and is destroyed before crumbling into ashes.
+
+#### Mirrorlight Edge
+*Weapon (scimitar), rare*
+
+This roughly hewn crystalline sword bends light in unexpected and dangerous ways. As an action, you can command the scimitar to emit up to 2 ghostly projections of itself. The sword can have up to 2 of these projections at any time, which last until dismissed (no action required). When you make a melee attack with this weapon, the projections become razor-sharp. Targets hit by the sword take an extra 1d4 slashing damage for each projection the sword has.
+
+When swung, the distorted light and projections make the sword difficult to see. When you miss with a melee attack using the sword while it has at least 1 projection, you can choose to reroll the attack using 1 of the projections. You must use the new roll. After the attack, the projection fades.
+
+The sword emits dim light in a 5-foot radius while it has 1 projection and 10 feet while it has 2. Sheathing the scimitar contains the projections' light without dismissing them.
+
+#### Spiderbite Daggers
+*Weapon (dagger), rare*
+
+These daggers are made using the harvested fangs of a large venomous spider. When you hit the same target on your turn with each dagger, that target must succeed on a DC 14 Constitution saving throw or take an extra 2d4 poison damage and become poisoned until the end of its next turn.
+
+#### Daggerbird Cloak
+*Wondrous item, rare (requries attunement)*
+
+A cloak with a collar of slate-gray feathers that turn into sharp magical projectiles when removed. The wearer may pull up to 8 feathers per day. Feathers are destroyed after one use, and the cloak regrows 1d8+1 feathers each morning.
+
+The feathers have the same statistics as a Dagger, +1 when thrown.
+
+#### Festerwood Vizard
+*Wondrous item, rare (requires attunement)*
+
+This dark wooden mask is strangely insect-like and magically conforms to fit the face of the creature that attunes to it. While wearing the mask, you gain blindsight out to a range of 10 feet. You can wear and remove the mask using an action.
+
+In addition, you can summon a swarm of insects (beetles) that fly out of the mask’s mouth and obey your verbal commands as an action. You can command the swarm to move and make an attack as part of the action to summon them and then again on your following turns as a bonus action. If the swarm goes 10 minutes without attacking a creature, they dissipate harmlessly to seek food elsewhere. Once this property of the mask has been used, it can't be used again until the following dusk.
+
+#### Giving Glove
+*Glove, rare (requires attunement by a spellcaster)*
+
+A single ornate, white glove covered in ancient writings and designs. The fabric of the glove appears almost translucent, but not the design. When this glove is worn (and attuned to the wearer) the fabric seems to dissolve into the wearer's skin leaving behind ornate patterns that look like tattoos. 
+
+The glove has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While you wear this glove, you can expend a number of charges to have a spell with a range of Self have a range of Touch instead.
+
+| **Spell Level ** | **Required Charges** |
+| Cantrip | 1 |
+| 1st-Level | 1 |
+| 2nd-Level | 2 |
+| 3rd-Level | 3 |
+
