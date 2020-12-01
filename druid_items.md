@@ -175,7 +175,7 @@ A jet black cloak comprised of pure black raven feathers.  While wearing this cl
 
 If you cast any spells or use any features that teleport you or relocate you in any fashion, you can choose to disappear and reappear in a cloud of raven feathers instead of the normal effect.
 
----
+## Very Rare Magical Items
 
 #### Dreamwood Staff
 *Staff, very rare (requires attunement)*
