@@ -21,6 +21,8 @@ This ivory circlet allows you to recreate some of the natural features of other 
 
 You can only have 1 of these effects active at a time.  The effects last until you dismiss it as a bonus action, remove the circlet, or fall unconscious.  You don't gain any of the senses or abilities of another creature by recreating its physical features in this way.
 
+---
+
 **Uorik the Conqueror's Juice Cap**  
 *Wondrous item, common*  
 
@@ -32,3 +34,24 @@ This friendly copper cup changes the flavor of water that's poured into it. As a
 *Armor (shield), uncommon (requires attunement by a druid)*  
 
 This reinforced wooden shield is covered with ironleaf vines that grant you extra protection.  You gain a +1 bonus to your AC while wielding this shield in addition to the shield's normal bonus to AC.  In addition, the wooden shield reforms itself to fit you whenever you use your wild shape class feature to transform into a beast.  When you do, the ironleaf vines and wooden shield latch onto your bestial form, granting you a +1 bonus to your AC while transformed in this way.
+
+---
+
+**Noggenfogger Elixir**
+*Potion, uncommon*
+
+When you drink this potion, you must roll a d20. 
+
+* If you roll an odd number, you shrink one size category. For example, a large creature becomes medium. 
+* If you roll an even number, all of the clothes and flesh on your body become transparent and you appear as a skeleton. 
+
+The effects of this potion last 10 minutes. 
+
+---
+
+**Autumn Cloak**
+*Wondrous item, uncommon*
+
+While wearing this cloak, you gain +1 AC while in woodland areas.  
+
+You can utter a command word once per day to cause the leaves within the cloak to swirl around you, obscuring you and giving you the effect of the blur spell for 1 minute.
