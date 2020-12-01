@@ -9,6 +9,8 @@ Dryadleaf plants only grow up to 4 leaves at a time and are found in the wild wi
 
 A creature can repot the plant following a successful DC 15 Intelligence (Nature) or Wisdom (Survival) check. On a failure, the delicate plant is irreversibly damaged and dies. Once repotted, the plant can survive with surprisingly little air, allowing it to survive in an extradimensional space such as a bag of holding or portable hole. So long as it's watered lightly each day and given a moderate amount of sunlight (weather and environment permitting), the plant grows 1d4 missing leaves every 7 days.
 
+---
+
 **Shapeshifter's Circlet**  
 *Wondrous item, common*  
 
